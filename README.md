@@ -42,14 +42,6 @@ Gesture-controlled virtual drawing app using OpenCV and Mediapipe. Draw in air w
 
 ---
 
-### 🏆 Achievements
-
-- 🥇 State-level Judo Gold Medalist  
-- 🧠 Solved 200+ DSA questions on LeetCode  
-- 🥇 State-level Abacus Gold Medalist  
-
----
-
 ### 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/piya-bhalla-b67903336)  
