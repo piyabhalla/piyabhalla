@@ -91,16 +91,6 @@ Tech Stack: `Python`, `OpenCV`, `NumPy`, `Mediapipe`
 
 ---
 
-## 🏅 Highlights & Certifications
-
-- 🧠 Solved 200+ DSA questions on **LeetCode**  
-- 🥇 Gold medalist in state-level **Judo** & **Abacus** championships  
-- 📜 IBM: ML & Model Deployment  
-- 💼 JPMorgan & Accenture Virtual Experiences  
-🎓 [View All Certifications](https://drive.google.com/drive/folders/1SR7pX3ds9t3KW-vbqaUywt2t9iG-ADij)
-
----
-
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
