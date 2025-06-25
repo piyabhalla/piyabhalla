@@ -2,7 +2,6 @@
 <p align="center">
   🚀 Final-year Computer Engineering student at Thapar Institute<br>
   💡 Passionate about Machine Learning, Web Development & Data Science<br>
-  🌱 Currently exploring Product & Solution Engineering roles<br>
   🛠️ Always learning & building something new!
 </p>
 
