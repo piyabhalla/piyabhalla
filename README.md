@@ -17,9 +17,9 @@
 ## 🚀 About Me
 
 - 🎓 Final-year Computer Engineering student at Thapar Institute, Patiala  
-- 🌱 Exploring roles like **Software Developer (SDE)**, **Data Analyst**, **Full Stack/Web Developer**, and **AI/ML Engineer**  
+- 🌱 Exploring roles like *Software Developer (SDE), **Data Analyst, **Full Stack/Web Developer, and **AI/ML Engineer*  
 - 💡 Passionate about building smart, scalable, and impactful tech solutions  
-- 💬 Ask me about `React`, `Next.js`, `Python`, `Firebase`, `NLP`, or anything exciting you’re building!    
+- 💬 Ask me about React, Next.js, Python, Firebase, NLP, or anything exciting you’re building!    
 
 ---
 
@@ -62,31 +62,39 @@
 ## 💼 Featured Projects
 
 ### 🔹 [Piyapp – Full-Stack Social Media App](https://github.com/piyabhalla/piyapp)
-> 💬 Post anything • ❤️ Clap like Medium • ✨ Edit profile with gender/DOB • 🖼️ Image uploads • 🌐 Real-time feed
+> 💬 Post anything • ❤ Clap like Medium • ✨ Edit profile with gender/DOB • 🖼 Image uploads • 🌐 Real-time feed
 
-Tech Stack: `Next.js`, `Firebase`, `Cloudinary`, `React`, `CSS`  
-> 🎯 *“More than a clone — packed with creative & real-world features.”*
+Tech Stack: Next.js, Firebase, Cloudinary, React, CSS  
+> 🎯 “More than a clone — packed with creative & real-world features.”
+
+---
+
+### 🌐 [My Personal Portfolio](https://piyafolio.netlify.app/)
+> Fully responsive portfolio with vibrant neon pastel theme, built with modern stack. Includes pages for projects, resume, skills, and contact — all deployed live.
+
+Tech Stack: Next.js, TypeScript, CSS Modules, Framer Motion, Netlify  
+> 🎯 “One portfolio, many colors — beautifully structured and mobile-ready.”
 
 ---
 
 ### 📩 [SMS Spam Detection](https://github.com/piyabhalla/SMS-Spam-Detection)
 > A simple and powerful spam classifier built using NLP and ML
 
-Tech Stack: `Python`, `Pandas`, `NLTK`, `Scikit-learn`
+Tech Stack: Python, Pandas, NLTK, Scikit-learn
 
 ---
 
 ### 🎬 [Movie Recommendation System](https://github.com/piyabhalla/Movie-Recommendation-System)
 > Suggests similar movies based on genres, cast, and keywords using cosine similarity
 
-Tech Stack: `Python`, `Scikit-learn`, `Pandas`, `NumPy`, `Pickle`
+Tech Stack: Python, Scikit-learn, Pandas, NumPy, Pickle
 
 ---
 
 ### 🎨 [Air Canvas](https://github.com/piyabhalla/Air-Canvas)
 > Draw in the air using hand gestures — built with computer vision and Mediapipe
 
-Tech Stack: `Python`, `OpenCV`, `NumPy`, `Mediapipe`
+Tech Stack: Python, OpenCV, NumPy, Mediapipe
 
 ---
 
@@ -108,5 +116,5 @@ Tech Stack: `Python`, `OpenCV`, `NumPy`, `Mediapipe`
 ---
 
 <p align="center">
-✨ _“Building with purpose. Learning with passion. Growing with curiosity.”_ ✨  
+✨ “Building with purpose. Learning with passion. Growing with curiosity.” ✨  
 </p>
