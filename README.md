@@ -65,7 +65,6 @@
 > 💬 Post anything • ❤ Clap like Medium • ✨ Edit profile with gender/DOB • 🖼 Image uploads • 🌐 Real-time feed
 
 Tech Stack: Next.js, Firebase, Cloudinary, React, CSS  
-> 🎯 “More than a clone — packed with creative & real-world features.”
 
 ---
 
@@ -73,7 +72,6 @@ Tech Stack: Next.js, Firebase, Cloudinary, React, CSS
 > Fully responsive portfolio with vibrant neon pastel theme, built with modern stack. Includes pages for projects, resume, skills, and contact — all deployed live.
 
 Tech Stack: Next.js, TypeScript, CSS Modules, Framer Motion, Netlify  
-> 🎯 “One portfolio, many colors — beautifully structured and mobile-ready.”
 
 ---
 
