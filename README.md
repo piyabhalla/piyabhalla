@@ -16,8 +16,8 @@
 
 ## 🚀 About Me
 
-- 🎓 Final-year Computer Engineering student at Thapar Institute, Patiala  
-- 🌱 Exploring roles like *Software Developer (SDE), **Data Analyst, **Full Stack/Web Developer, and **AI/ML Engineer*  
+- 🎓 Final-year Computer Engineering student at Thapar Institute of Engineering and Technology, Patiala  
+- 🌱 Exploring roles like Software Developer (SDE), Data Analyst, Full Stack/Web Developer, and AI/ML Engineer
 - 💡 Passionate about building smart, scalable, and impactful tech solutions  
 - 💬 Ask me about React, Next.js, Python, Firebase, NLP, or anything exciting you’re building!    
 
