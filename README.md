@@ -61,6 +61,13 @@
 
 ## 💼 Featured Projects
 
+### 🧠 [Neuramini – AI Powered Chatbot Platform](https://github.com/piyabhalla/neuramini)
+> Developed and deployed a modern AI chatbot platform using OpenRouter (LLM) for intelligent conversations and Hugging Face ViT for image classification.
+
+Tech Stack: Next.js, Firebase, Firestore, Cloudinary, OpenRouter (Mistral LLM), Hugging Face Transformers (ViT), React.js, CSS Modules  
+
+---
+
 ### 🔹 [Piyapp – Full-Stack Social Media App](https://github.com/piyabhalla/piyapp)
 > 💬 Post anything • ❤ Clap like Medium • ✨ Edit profile with gender/DOB • 🖼 Image uploads • 🌐 Real-time feed
 
