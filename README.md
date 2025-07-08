@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Piya Bhalla 👋</h1>
 
 <p align="center">
-🎓 Final-year Computer Engineering student at Thapar Institute, India <br>
+🎓Computer Engineering graduate at Thapar Institute of Engineering and Technology, Patiala, India <br>
 💻 Full Stack Developer | 💡 AI/ML Enthusiast <br>
-✨ Creative Mind | ⚡ Curious Coder | 🌱 Always Learning
+✨ Creative Mind | ⚡ Curious Coder 
 </p>
 
 <p align="center">
