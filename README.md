@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 Final-year Computer Engineering student at Thapar Institute, India <br>
-💻 Full Stack Developer | 💡 AI/ML Enthusiast | 📊 Data Analyst-in-Progress <br>
+💻 Full Stack Developer | 💡 AI/ML Enthusiast | <br>
 ✨ Creative Mind | ⚡ Curious Coder | 🌱 Always Learning
 </p>
 
