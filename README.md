@@ -59,50 +59,6 @@
 
 ---
 
-## 💼 Featured Projects
-
-### 🧠 [Neuramini – AI Powered Chatbot Platform](https://github.com/piyabhalla/neuramini)
-> Developed and deployed a modern AI chatbot platform using OpenRouter (LLM) for intelligent conversations and Hugging Face ViT for image classification.
-
-Tech Stack: Next.js, Firebase, Firestore, Cloudinary, OpenRouter (Mistral LLM), Hugging Face Transformers (ViT), React.js, CSS Modules  
-
----
-
-### 🔹 [Piyapp – Full-Stack Social Media App](https://github.com/piyabhalla/piyapp)
-> 💬 Post anything • ❤ Clap like Medium • ✨ Edit profile with gender/DOB • 🖼 Image uploads • 🌐 Real-time feed
-
-Tech Stack: Next.js, Firebase, Cloudinary, React, CSS  
-
----
-
-### 🌐 [My Personal Portfolio](https://piyafolio.netlify.app/)
-> Fully responsive portfolio with vibrant neon pastel theme, built with modern stack. Includes pages for projects, resume, skills, and contact — all deployed live.
-
-Tech Stack: Next.js, TypeScript, CSS Modules, Framer Motion, Netlify  
-
----
-
-### 📩 [SMS Spam Detection](https://github.com/piyabhalla/SMS-Spam-Detection)
-> A simple and powerful spam classifier built using NLP and ML
-
-Tech Stack: Python, Pandas, NLTK, Scikit-learn
-
----
-
-### 🎬 [Movie Recommendation System](https://github.com/piyabhalla/Movie-Recommendation-System)
-> Suggests similar movies based on genres, cast, and keywords using cosine similarity
-
-Tech Stack: Python, Scikit-learn, Pandas, NumPy, Pickle
-
----
-
-### 🎨 [Air Canvas](https://github.com/piyabhalla/Air-Canvas)
-> Draw in the air using hand gestures — built with computer vision and Mediapipe
-
-Tech Stack: Python, OpenCV, NumPy, Mediapipe
-
----
-
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
