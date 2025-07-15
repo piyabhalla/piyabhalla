@@ -12,12 +12,6 @@
 ✨ Creative Mind | ⚡ Curious Coder 
 </p>
 
-<p align="center">
-  <a href="https://github.com/piyabhalla"><img src="https://img.shields.io/github/followers/piyabhalla?label=Follow&style=social" /></a>
-  <a href="https://www.linkedin.com/in/piya-bhalla-b67903336"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:piyabhalla000@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
-
 ---
 
 ## 🚀 About Me
