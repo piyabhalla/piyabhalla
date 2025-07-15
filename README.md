@@ -1,3 +1,8 @@
+<!-- Starry Night Banner -->
+<p align="center">
+  <img src="assets/starry-night.jpg" alt="Starry Night Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm Piya Bhalla</h1>
 
 <p align="center">
@@ -76,3 +81,8 @@ Computer Engineering Graduate • Frontend Developer • AI/ML Enthusiast
 <p align="center">
 <em>“Building with purpose. Learning with passion. Growing with curiosity.”</em>  
 </p>
+
+---
+
+### 🎨 Image Credit  
+> Background image by <a href="https://www.freepik.com/free-photo/beautiful-shining-stars-night-sky_7631083.htm">Freepik</a>
