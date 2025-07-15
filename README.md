@@ -22,7 +22,7 @@
   <table>
     <tr>
       <td><img src="https://skillicons.dev/icons?i=cpp" /></td>
-      <td><img src="https://skillicons.dev/icons?i=c" /></td>
+      <td><img src="https://skillicons.dev/icons?i=java" /></td>
       <td><img src="https://skillicons.dev/icons?i=python" /></td>
       <td><img src="https://skillicons.dev/icons?i=js" /></td>
       <td><img src="https://skillicons.dev/icons?i=react" /></td>
@@ -30,7 +30,7 @@
       <td><img src="https://skillicons.dev/icons?i=firebase" /></td>
       <td><img src="https://skillicons.dev/icons?i=git" /></td>
       <td><img src="https://skillicons.dev/icons?i=github" /></td>
-      <td><img src="https://skillicons.dev/icons?i=java" /></td>
+      <td><img src="https://skillicons.dev/icons?i=figma" /></td>
       <td><img src="https://skillicons.dev/icons?i=vscode" /></td>
       <td><img src="https://skillicons.dev/icons?i=mysql" /></td>
       <td><img src="https://skillicons.dev/icons?i=opencv" /></td>
