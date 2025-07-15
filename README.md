@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="assets/stars-banner.jpg" alt="Starry Night Banner" width="100%" />
-</p>
-
-<p align="center"><sub>Image by <a href="https://www.freepik.com/free-photo/beautiful-night-sky-with-shiny-stars_2861996.htm">Freepik</a></sub></p>
-
 <h1 align="center">Hi, I'm Piya Bhalla </h1>
 
 <p align="center">
