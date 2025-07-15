@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓Computer Engineering graduate at Thapar Institute of Engineering and Technology, Patiala, India <br>
-💻 Full Stack Developer | 💡 AI/ML Enthusiast <br>
+💻 Front End Developer | 💡 AI/ML Enthusiast <br>
 ✨ Creative Mind | ⚡ Curious Coder 
 </p>
 
