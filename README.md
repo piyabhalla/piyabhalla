@@ -1,8 +1,17 @@
-<h1 align="center">Hey, I'm Piya! </h1>
+<h1 align="center">Hi, I'm Piya Bhalla </h1>
+
 <p align="center">
-🎓 Computer Engineering graduate at Thapar Institute of Engineering and Technology, Patiala, India <br>
 💻 Front End Developer | 💡 AI/ML Enthusiast
 </p>
+
+---
+
+## 🚀 About Me
+
+- Computer Engineering graduate at Thapar Institute of Engineering and Technology, Patiala  
+- Exploring roles like Software Developer (SDE), Data Analyst, Full Stack/Web Developer, and AI/ML Engineer  
+- Passionate about building smart, scalable, and impactful tech solutions  
+- Ask me about React, Next.js, GenAI, NLP, or anything exciting you’re building!
 
 ---
 
@@ -63,4 +72,3 @@
 </p>
 
 ---
-
