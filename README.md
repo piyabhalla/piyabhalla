@@ -28,23 +28,14 @@
       <td><img src="https://skillicons.dev/icons?i=react" /></td>
       <td><img src="https://skillicons.dev/icons?i=nextjs" /></td>
       <td><img src="https://skillicons.dev/icons?i=firebase" /></td>
-      <td><img src="https://skillicons.dev/icons?i=cloudinary" /></td>
     </tr>
     <tr>
       <td><img src="https://skillicons.dev/icons?i=git" /></td>
       <td><img src="https://skillicons.dev/icons?i=github" /></td>
       <td><img src="https://skillicons.dev/icons?i=vscode" /></td>
       <td><img src="https://skillicons.dev/icons?i=mysql" /></td>
-      <td><img src="https://skillicons.dev/icons?i=numpy" /></td>
-      <td><img src="https://skillicons.dev/icons?i=pandas" /></td>
-      <td><img src="https://skillicons.dev/icons?i=matplotlib" /></td>
       <td><img src="https://skillicons.dev/icons?i=opencv" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://skillicons.dev/icons?i=scikit-learn" /></td>
       <td><img src="https://skillicons.dev/icons?i=tensorflow" /></td>
-      <td><img src="https://skillicons.dev/icons?i=nltk" /></td>
-      <td><img src="https://skillicons.dev/icons?i=mediapipe" /></td>
     </tr>
   </table>
 </p>
