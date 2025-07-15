@@ -18,8 +18,35 @@
 
 ## 💻 Tech Stack I Work With
 
-<p align="center" style="line-height:1;">
-  <img src="https://skillicons.dev/icons?i=cpp,c,openai,python,js,react,nextjs,firebase,cloudinary,numpy,pandas,matplotlib,opencv,scikit-learn,tensorflow,nltk,mediapipe,git,github,vscode,mysql" />
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=cpp" /></td>
+      <td><img src="https://skillicons.dev/icons?i=c" /></td>
+      <td><img src="https://skillicons.dev/icons?i=python" /></td>
+      <td><img src="https://skillicons.dev/icons?i=js" /></td>
+      <td><img src="https://skillicons.dev/icons?i=react" /></td>
+      <td><img src="https://skillicons.dev/icons?i=nextjs" /></td>
+      <td><img src="https://skillicons.dev/icons?i=firebase" /></td>
+      <td><img src="https://skillicons.dev/icons?i=cloudinary" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=git" /></td>
+      <td><img src="https://skillicons.dev/icons?i=github" /></td>
+      <td><img src="https://skillicons.dev/icons?i=vscode" /></td>
+      <td><img src="https://skillicons.dev/icons?i=mysql" /></td>
+      <td><img src="https://skillicons.dev/icons?i=numpy" /></td>
+      <td><img src="https://skillicons.dev/icons?i=pandas" /></td>
+      <td><img src="https://skillicons.dev/icons?i=matplotlib" /></td>
+      <td><img src="https://skillicons.dev/icons?i=opencv" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=scikit-learn" /></td>
+      <td><img src="https://skillicons.dev/icons?i=tensorflow" /></td>
+      <td><img src="https://skillicons.dev/icons?i=nltk" /></td>
+      <td><img src="https://skillicons.dev/icons?i=mediapipe" /></td>
+    </tr>
+  </table>
 </p>
 
 ---
