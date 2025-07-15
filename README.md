@@ -28,8 +28,6 @@
       <td><img src="https://skillicons.dev/icons?i=react" /></td>
       <td><img src="https://skillicons.dev/icons?i=nextjs" /></td>
       <td><img src="https://skillicons.dev/icons?i=firebase" /></td>
-    </tr>
-    <tr>
       <td><img src="https://skillicons.dev/icons?i=git" /></td>
       <td><img src="https://skillicons.dev/icons?i=github" /></td>
       <td><img src="https://skillicons.dev/icons?i=java" /></td>
