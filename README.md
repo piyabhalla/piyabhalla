@@ -32,7 +32,7 @@
     <tr>
       <td><img src="https://skillicons.dev/icons?i=git" /></td>
       <td><img src="https://skillicons.dev/icons?i=github" /></td>
-      <td><img src="https://skillicons.dev/icons?i=opencv" /></td>
+      <td><img src="https://skillicons.dev/icons?i=java" /></td>
       <td><img src="https://skillicons.dev/icons?i=vscode" /></td>
       <td><img src="https://skillicons.dev/icons?i=mysql" /></td>
       <td><img src="https://skillicons.dev/icons?i=opencv" /></td>
