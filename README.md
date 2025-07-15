@@ -1,9 +1,8 @@
-<h1 align="center">Hi, I'm Piya Bhalla 
+<h1 align="center">Hey! I'm Piya </h1>
 
 <p align="center">
 💻 Front End Developer | 💡 AI/ML Enthusiast
-</p> </h1>
-
+</p> 
 
 ## 🚀 About Me
 
