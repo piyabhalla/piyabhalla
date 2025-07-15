@@ -1,8 +1,3 @@
-<!-- 🌌 Banner -->
-<p align="center">
-  <img src="assets/starry-night.jpg" alt="Starry Night Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi, I'm Piya Bhalla </h1>
 
 <p align="center">
@@ -25,7 +20,7 @@
 
 <!-- Icon Grid via Skillicons.dev -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,react,nextjs,firebase,cloudinary,numpy,pandas,matplotlib,opencv,scikit-learn,tensorflow,nltk,mediapipe,git,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,llm,js,react,nextjs,firebase,cloudinary,numpy,pandas,matplotlib,opencv,scikit-learn,tensorflow,nltk,mediapipe,git,github,vscode,mysql" />
 </p>
 
 ---
@@ -63,6 +58,3 @@
 
 ---
 
-### 🌌 Image Credit
-
-> Background image by <a href="https://www.freepik.com/free-photo/beautiful-shining-stars-night-sky_7631083.htm">Freepik</a>
