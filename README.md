@@ -18,9 +18,8 @@
 
 ## 💻 Tech Stack I Work With
 
-<!-- Icon Grid via Skillicons.dev -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,llm,js,react,nextjs,firebase,cloudinary,numpy,pandas,matplotlib,opencv,scikit-learn,tensorflow,nltk,mediapipe,git,github,vscode,mysql" />
+<p align="center" style="line-height:1;">
+  <img src="https://skillicons.dev/icons?i=cpp,c,openai,python,js,react,nextjs,firebase,cloudinary,numpy,pandas,matplotlib,opencv,scikit-learn,tensorflow,nltk,mediapipe,git,github,vscode,mysql" />
 </p>
 
 ---
