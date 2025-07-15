@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Piya Bhalla </h1>
+<h1 align="center">Heyyyy, I'm Piya! </h1>
 
 <p align="center">
 🎓 Computer Engineering graduate at Thapar Institute of Engineering and Technology, Patiala, India <br>
