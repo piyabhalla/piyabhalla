@@ -4,7 +4,6 @@
 💻 Front End Developer | 💡 AI/ML Enthusiast
 </p>
 
----
 
 ## 🚀 About Me
 
@@ -13,7 +12,6 @@
 - Passionate about building smart, scalable, and impactful tech solutions  
 - Ask me about React, Next.js, GenAI, NLP, or anything exciting you’re building!
 
----
 
 ## 💻 Tech Stack I Work With
 
@@ -38,7 +36,6 @@
   </table>
 </p>
 
----
 
 ## 🔥 GitHub Streak
 
@@ -46,7 +43,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=piyabhalla&theme=tokyonight&hide_border=false" />
 </p>
 
----
 
 ## 📊 GitHub Stats & Activity
 
@@ -55,7 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyabhalla&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
----
 
 ## 💬 Let's Connect!
 
