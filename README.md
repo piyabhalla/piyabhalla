@@ -38,9 +38,8 @@
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=piyabhalla&theme=tokyonight&hide_border=false" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=piyabhalla&theme=tokyonight&hide_border=false)
+
 
 
 ## 📊 GitHub Stats & Activity
